@@ -27,7 +27,7 @@ Config.Location = {
     Ped = {
         Buying = { position = vector3(-1031.52, -2734.06, 20.16), heading = 141.73 },
         RentVehicle = {
-            Initial = { position = vector3(-1032.184570, -2729.960449, 20.113525), heading = 158.74 },
+            Initial = { position = vector3(-1091.459351, -2671.120850, 20.164062), heading = 206.92913818359 },
             Final = { position = vector3(-1032.514282, -2729.881348, 19.490112)}
         }
     },
